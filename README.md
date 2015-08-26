@@ -23,4 +23,16 @@ $ webpack ./entry.js bundle.js
 ## React Hot Loader
 For my current project, I'm using [React](http://facebook.github.io/react/). For React to work with Webpack, I need to make sure Hot is enabled for [Hot Module Replacement](http://webpack.github.io/docs/hot-module-replacement-with-webpack.html). Also, the [React Hot Loader](http://gaearon.github.io/react-hot-loader/) module must be installed as well.
 
+## CLI
+
+* `--progress` - Shows progress in the terminal output during compilation
+* `--colors` - Shows compilation in a beautiful color output
+
+## Resources
+
+As I'm researching more about Webpack, I'm going to place my resources down here.
+
+* [Webpack Docs](http://webpack.github.io/docs/)
+* [Angular Webpack Example](https://github.com/jeffling/angular-webpack-example)
+* [Webpack Demos](https://github.com/ruanyf/webpack-demos) - The ReadMe includes a good introduction to Webpack
 
