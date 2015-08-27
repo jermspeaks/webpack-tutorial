@@ -2,7 +2,7 @@
 An introduction to webpack using [their tutorial](http://webpack.github.io/docs/tutorials/getting-started/)
 
 ## What is Webpack?
-Webpack is a build system that compiles your assets for your application. It follows a code over configuration methodology, unlike other build systems like grunt or gulp + browserify. 
+Webpack is a build system that compiles your assets for your application. It follows a code over configuration methodology, unlike other build systems like grunt or gulp + browserify.
 
 ## Installation
 
@@ -20,7 +20,27 @@ In their CLI app, webpack takes two arguments. The main file and the compilation
 $ webpack ./entry.js bundle.js
 ```
 
-## React Hot Loader
+## Binding Loaders
+
+Stealing this list of loaders from the [webpack-demos readme](https://raw.githubusercontent.com/ruanyf/webpack-demos/master/README.md):
+
+1. [Entry file](#demo01-entry-file-source)
+1. [Multiple entry files](#demo02-multiple-entry-files-source)
+1. [Babel-loader](#demo03-babel-loader-source)
+1. [CSS-loader](#demo04-css-loader-source)
+1. [Image loader](#demo05-image-loader-source)
+1. [CSS Module](#demo06-css-module-source)
+1. [UglifyJs Plugin](#demo07-uglifyjs-plugin-source)
+1. [Environment flags](#demo08-environment-flags-source)
+1. [Common chunk](#demo09-common-chunk-source)
+1. [Vendor chunk](#demo10-vendor-chunk-source)
+1. [Exposing Global Variables](#demo11-exposing-global-variables-source)
+1. [React hot loader](#demo12-react-hot-loader-source)
+1. [React router](#demo13-react-router-source)
+
+###
+
+### React Hot Loader
 For my current project, I'm using [React](http://facebook.github.io/react/). For React to work with Webpack, I need to make sure Hot is enabled for [Hot Module Replacement](http://webpack.github.io/docs/hot-module-replacement-with-webpack.html). Also, the [React Hot Loader](http://gaearon.github.io/react-hot-loader/) module must be installed as well.
 
 ## CLI
@@ -35,4 +55,3 @@ As I'm researching more about Webpack, I'm going to place my resources down here
 * [Webpack Docs](http://webpack.github.io/docs/)
 * [Angular Webpack Example](https://github.com/jeffling/angular-webpack-example)
 * [Webpack Demos](https://github.com/ruanyf/webpack-demos) - The ReadMe includes a good introduction to Webpack
-
