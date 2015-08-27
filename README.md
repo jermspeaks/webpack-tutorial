@@ -24,19 +24,19 @@ $ webpack ./entry.js bundle.js
 
 Stealing this list of loaders from the [webpack-demos readme](https://raw.githubusercontent.com/ruanyf/webpack-demos/master/README.md):
 
-1. [Entry file](#demo01-entry-file-source)
-1. [Multiple entry files](#demo02-multiple-entry-files-source)
-1. [Babel-loader](#demo03-babel-loader-source)
-1. [CSS-loader](#demo04-css-loader-source)
-1. [Image loader](#demo05-image-loader-source)
-1. [CSS Module](#demo06-css-module-source)
-1. [UglifyJs Plugin](#demo07-uglifyjs-plugin-source)
-1. [Environment flags](#demo08-environment-flags-source)
-1. [Common chunk](#demo09-common-chunk-source)
-1. [Vendor chunk](#demo10-vendor-chunk-source)
-1. [Exposing Global Variables](#demo11-exposing-global-variables-source)
-1. [React hot loader](#demo12-react-hot-loader-source)
-1. [React router](#demo13-react-router-source)
+1. [Entry file](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo01-entry-file-source)
+1. [Multiple entry files](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo02-multiple-entry-files-source)
+1. [Babel-loader](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo03-babel-loader-source)
+1. [CSS-loader](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo04-css-loader-source)
+1. [Image loader](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo05-image-loader-source)
+1. [CSS Module](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo06-css-module-source)
+1. [UglifyJs Plugin](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo07-uglifyjs-plugin-source)
+1. [Environment flags](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo08-environment-flags-source)
+1. [Common chunk](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo09-common-chunk-source)
+1. [Vendor chunk](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo10-vendor-chunk-source)
+1. [Exposing Global Variables](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo11-exposing-global-variables-source)
+1. [React hot loader](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo12-react-hot-loader-source)
+1. [React router](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo13-react-router-source)
 
 ###
 
