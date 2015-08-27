@@ -74,8 +74,14 @@ For my current project, I'm using [React](http://facebook.github.io/react/). For
 
 ## CLI
 
-* `--progress` - Shows progress in the terminal output during compilation
-* `--colors` - Shows compilation in a beautiful color output
+Some command-line options you should know. Again, credits to [Webpack Demos](https://github.com/ruanyf/webpack-demos/).
+
+- `webpack` – for building once for development
+- `webpack -p` – for building once for production (minification)
+- `webpack --watch` – for continuous incremental build
+- `webpack -d` – to include source maps
+- `webpack --colors` – for making things pretty
+* `webpack --progress` - Shows progress in the terminal output during compilation
 
 ## Resources
 
