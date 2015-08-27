@@ -90,3 +90,8 @@ As I'm researching more about Webpack, I'm going to place my resources down here
 * [Webpack Docs](http://webpack.github.io/docs/)
 * [Angular Webpack Example](https://github.com/jeffling/angular-webpack-example)
 * [Webpack Demos](https://github.com/ruanyf/webpack-demos) - The ReadMe includes a good introduction to Webpack
+* [Diving Webpack](https://web-design-weekly.com/2014/09/24/diving-webpack/) - Web Design Weekly's introduction to Webpack.
+* [Webpack-HowTo](https://github.com/petehunt/webpack-howto) - Pete Hunt's guide to Webpack, which is fairly comprehensive for advanced features.
+* [Christian Alfoni's Webpack Guide](http://www.christianalfoni.com/articles/2014_12_13_Webpack-and-react-is-awesome) Goes through Webpack features. I especailly like his examples on Handling Vendors
+* [Corey House on Medium - Webpack vs. Browserify](https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9)
+
