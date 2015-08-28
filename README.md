@@ -38,6 +38,10 @@ Stealing this list of loaders from the [webpack-demos readme](https://raw.github
 1. [React hot loader](http://gaearon.github.io/react-hot-loader/) - [Webpack Demo](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo12-react-hot-loader-source)
 1. [React router](https://github.com/rackt/react-router/blob/0.13.x/docs/guides/overview.md) - [Webpack Demo](https://github.com/ruanyf/webpack-demos/blob/master/README.md#demo13-react-router-source)
 
+### Babel-loader
+
+This allows for ES6 features of the JS language to be utilized to the fullest before browser support. Things such as `import` are super useful instead of all of those `require` statements. Not to mention if you only want a portion of the export, like specific classes or functions, it becomes super useful. Think the import style of Python. 
+
 ### Environment Flags Example
 
 ```js
@@ -94,4 +98,5 @@ As I'm researching more about Webpack, I'm going to place my resources down here
 * [Webpack-HowTo](https://github.com/petehunt/webpack-howto) - Pete Hunt's guide to Webpack, which is fairly comprehensive for advanced features.
 * [Christian Alfoni's Webpack Guide](http://www.christianalfoni.com/articles/2014_12_13_Webpack-and-react-is-awesome) Goes through Webpack features. I especailly like his examples on Handling Vendors
 * [Corey House on Medium - Webpack vs. Browserify](https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9)
-
+* [Webpack Cookbook](https://github.com/gaearon/react-hot-loader/blob/master/docs/Troubleshooting.md) - Juho Vepsäläinen & Christian Alfoni's book on specific problems you may encounter in Webpack
+* [SurviveJS Book](http://survivejs.com/webpack_react) - Juho Vepsäläinen's book on using React and Webpack together.
